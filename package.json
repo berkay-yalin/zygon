@@ -1,6 +1,6 @@
 {
-	"name": "berkay-yalin.io",
-	"version": "0.0.1",
+	"name": "zygon",
+	"version": "1.0.0",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",

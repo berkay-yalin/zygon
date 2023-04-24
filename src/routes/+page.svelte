@@ -41,6 +41,10 @@
 	// });
 </script>
 
+<svelte:head>
+	<title>Zygon</title>
+</svelte:head>
+
 <Navigation
 	on:vPPP={viewPastPaperPseudocode}
 	on:vPG={viewPseudocodeGuide}
